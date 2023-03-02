@@ -6,13 +6,13 @@
 ---
 Neste repositório, estão os dashboards feitos por mim.
 
-## Projetos
+## ⚙🔧🧪 Projetos
 Lista de projetos:
 
 * **Dashboard de Análise de Vendas Regionais:** https://github.com/andregustavo04/Dashboards/tree/main/Superstore_Sales_Dashboard
 * **Dashboard de Análise dos Preços da Gasolina no Brasil:** https://github.com/andregustavo04/Dashboards/tree/main/Gas_Prices_Dashboard
 
 ---
-## Sobre Mim
+## 🙋🏼‍♂️ Sobre Mim
 Cientista de dados com habilidades  em Python, SQL, e machine learning, além da criação de web apps e dashboards com Python. Tenho um imenso interesse em Matemática, 
 Física, Ciência e Tecnologia de maneira geral. 
