@@ -6,7 +6,7 @@
 ---
 Neste repositório, estão os dashboards feitos por mim.
 
-## ⚙🔧🧪 Projetos
+## 🧪 Projetos
 Lista de projetos:
 
 * **Dashboard de Análise de Vendas Regionais:** https://github.com/andregustavo04/Dashboards/tree/main/Superstore_Sales_Dashboard
