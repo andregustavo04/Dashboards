@@ -1,0 +1,4 @@
+#regions_dropdown .VirtualizedSelectFocusedOption {
+  background-color: blue;
+  color: black;
+}
