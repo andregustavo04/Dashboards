@@ -6,7 +6,7 @@
   
   ## 💻 Projeto
   Para ver o dashboard em tempo real, clique no link abaixo: <br><br>
-  <a href = "https://gas-prices-dashboard.onrender.com/"><img src="https://img.shields.io/badge/DASHBOARD-Análise de Vendas Regionais-darkblue" target="_blank"></a>
+  <a href = "https://gas-prices-dashboard.onrender.com/"><img src="https://img.shields.io/badge/DASHBOARD-Preços da Gasolina no Brasil-darkblue" target="_blank"></a>
 
   
   **NOTA:** Como o dashboard está hospedado no plano gratuito do Render, pode ser que o tempo de resposta seja muito lento, o que pode acarretar em um mau funcionamento da aplicação.
